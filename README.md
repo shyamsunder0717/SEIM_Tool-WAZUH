@@ -1,7 +1,7 @@
 # SEIM Tool using WAZUH
 
 ## Overview
-RAS - The SIEM Tool is an open-source Security Information and Event Management (SIEM) solution designed to provide real-time monitoring, detection, and response to cybersecurity threats. Built using the ELK stack (Elasticsearch, Logstash, Kibana) and Filebeat, this tool centralizes log collection and analysis, making it an ideal solution for small to medium-sized enterprises.
+The SIEM Tool is an open-source Security Information and Event Management (SIEM) solution designed to provide real-time monitoring, detection, and response to cybersecurity threats. Built using the ELK stack (Elasticsearch, Logstash, Kibana) and Filebeat, this tool centralizes log collection and analysis, making it an ideal solution for small to medium-sized enterprises.
 
 ## Key Features
 - **Log Ingestion**: Collect logs from multiple endpoints using Filebeat and Elastic Agent.
