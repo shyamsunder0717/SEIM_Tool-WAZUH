@@ -69,6 +69,7 @@ The RAS SIEM Tool successfully collects and visualizes logs in real-time, provid
 
 ## Contact
 For inquiries or contributions, please contact:
+- LinkedIn: https://linkedin.com/in/shyam-sunder-sharma-987245s
 
 
 ## References
