@@ -78,5 +78,4 @@ For inquiries or contributions, please contact:
 - [El Mrabet, Z., et al. (2022). "An Evaluation of the ELK Stack as an Open-Source SIEM Solution."](https://www.journalofinformationsecurity.com)
 - [Martínez, R., & Medel, D. (2021). "Challenges in Implementing Open-Source SIEM Solutions: A Case Study on ELK Stack."](https://www.ijcybersecurity.com)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](
+
